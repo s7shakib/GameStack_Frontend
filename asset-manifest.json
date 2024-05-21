@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GameStack_Frontend/static/css/main.d15d9578.css",
-    "main.js": "/GameStack_Frontend/static/js/main.4e18225f.js",
+    "main.js": "/GameStack_Frontend/static/js/main.7c4d1c00.js",
     "index.html": "/GameStack_Frontend/index.html",
     "main.d15d9578.css.map": "/GameStack_Frontend/static/css/main.d15d9578.css.map",
-    "main.4e18225f.js.map": "/GameStack_Frontend/static/js/main.4e18225f.js.map"
+    "main.7c4d1c00.js.map": "/GameStack_Frontend/static/js/main.7c4d1c00.js.map"
   },
   "entrypoints": [
     "static/css/main.d15d9578.css",
-    "static/js/main.4e18225f.js"
+    "static/js/main.7c4d1c00.js"
   ]
 }
